@@ -1,0 +1,2 @@
+Median: 16458.5
+for verifing median through sorting : 16458.5
